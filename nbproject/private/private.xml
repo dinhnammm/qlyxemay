@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/halucky/NetBeansProjects/wedbanxemay/web/themsp.jsp</file>
+            <file>file:/Users/halucky/NetBeansProjects/wedbanxemay/src/java/entity/ShoppingCart.java</file>
+            <file>file:/Users/halucky/NetBeansProjects/wedbanxemay/web/WEB-INF/web.xml</file>
+            <file>file:/Users/halucky/NetBeansProjects/wedbanxemay/src/java/entity/Account.java</file>
+            <file>file:/Users/halucky/NetBeansProjects/wedbanxemay/src/java/control/ShoppingCartLL.java</file>
+            <file>file:/Users/halucky/NetBeansProjects/wedbanxemay/src/java/dao/Dao.java</file>
+            <file>file:/Users/halucky/NetBeansProjects/wedbanxemay/web/Detail.jsp</file>
+            <file>file:/Users/halucky/NetBeansProjects/wedbanxemay/src/java/entity/Cartbean.java</file>
+            <file>file:/Users/halucky/NetBeansProjects/wedbanxemay/src/java/control/Detailcontrol.java</file>
+            <file>file:/Users/halucky/NetBeansProjects/wedbanxemay/src/java/control/Themsp.java</file>
+            <file>file:/Users/halucky/NetBeansProjects/wedbanxemay/src/java/control/Addcontrol.java</file>
+            <file>file:/Users/halucky/NetBeansProjects/wedbanxemay/src/java/entity/Product.java</file>
+            <file>file:/Users/halucky/NetBeansProjects/wedbanxemay/src/java/control/Logincontrol.java</file>
+            <file>file:/Users/halucky/NetBeansProjects/wedbanxemay/src/java/control/Homecontrol.java</file>
+            <file>file:/Users/halucky/NetBeansProjects/wedbanxemay/web/DangnhapDangky.jsp</file>
+            <file>file:/Users/halucky/NetBeansProjects/wedbanxemay/web/thanhtoan.jsp</file>
+            <file>file:/Users/halucky/NetBeansProjects/wedbanxemay/web/view-cart.jsp</file>
+            <file>file:/Users/halucky/NetBeansProjects/wedbanxemay/src/java/entity/Category.java</file>
+            <file>file:/Users/halucky/NetBeansProjects/wedbanxemay/src/java/entity/CartItem.java</file>
+            <file>file:/Users/halucky/NetBeansProjects/wedbanxemay/src/java/control/Categorycontrol.java</file>
+            <file>file:/Users/halucky/NetBeansProjects/wedbanxemay/src/java/entity/Addtocart.java</file>
+            <file>file:/Users/halucky/NetBeansProjects/wedbanxemay/src/java/control/Looutcontrol.java</file>
+            <file>file:/Users/halucky/NetBeansProjects/wedbanxemay/web/suasp.jsp</file>
+            <file>file:/Users/halucky/NetBeansProjects/wedbanxemay/src/java/connect/DBconnect.java</file>
+            <file>file:/Users/halucky/NetBeansProjects/wedbanxemay/src/java/entity/information.java</file>
+            <file>file:/Users/halucky/NetBeansProjects/wedbanxemay/web/Home.jsp</file>
+        </group>
+    </open-files>
+</project-private>
